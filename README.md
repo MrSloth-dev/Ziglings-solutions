@@ -69,15 +69,15 @@ Exercises:
 - [x] 064_builtins.zig
 - [x] 065_builtins2.zig
 - [x] 066_comptime.zig
-- [ ] 067_comptime2.zig
-- [ ] 068_comptime3.zig
-- [ ] 069_comptime4.zig
-- [ ] 070_comptime5.zig
-- [ ] 071_comptime6.zig
-- [ ] 072_comptime7.zig
-- [ ] 073_comptime8.zig
-- [ ] 074_comptime9.zig
-- [ ] 075_quiz8.zig
+- [x] 067_comptime2.zig
+- [x] 068_comptime3.zig
+- [x] 069_comptime4.zig
+- [x] 070_comptime5.zig
+- [x] 071_comptime6.zig
+- [x] 072_comptime7.zig
+- [x] 073_comptime8.zig
+- [x] 074_comptime9.zig
+- [x] 075_quiz8.zig
 - [ ] 076_sentinels.zig
 - [ ] 077_sentinels2.zig
 - [ ] 078_sentinels3.zig
